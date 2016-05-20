@@ -1,2 +1,3 @@
 # hello-word
-Just another repository
+
+Just testing out Github and I'm new to Web Development
